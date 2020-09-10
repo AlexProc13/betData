@@ -18,9 +18,7 @@ console.log(betData.systemData.getSystemName('4-4'));
 pass 3 arguments
 - object with system key, example: {key: '3-4'}
 - stakeBet - sum for 1 combination
-- array of objects witch contains odd coef, example: ```bash
-[{odd: 1.2}, {odd: 1.2}, {odd: 1.2}]
-```
+- array of objects witch contains odd coef, example: ```[{odd: 1.2}, {odd: 1.2}, {odd: 1.2}]```
 ### example
 ```bash
 console.log(betData.systemData.possibleWins({key: '3-4'}, 2, [{odd: 1.2}, {odd: 3}, {odd: 1.7}]));
