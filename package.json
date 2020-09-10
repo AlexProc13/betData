@@ -1,11 +1,19 @@
 {
-  "name": "nux-bet-data",
+  "name": "@alexproc1313/nux-bet-data",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get nux bet data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexProc13/betData.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexProc13/betData/issues"
+  },
+  "homepage": "https://github.com/AlexProc13/betData#readme"
 }
