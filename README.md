@@ -9,7 +9,7 @@ console.log(betData.systemData.getListData(4));
 ```
 
 # Get name system by key
-# Pas system key for ex. '4-4' and get system name
+### Pas system key for ex. '4-4' and get system name
 ```bash
 console.log(betData.systemData.getSystemName('4-4'));
 ```
